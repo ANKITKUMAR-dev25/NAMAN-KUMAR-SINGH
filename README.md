@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </p>
 
-Hello, I'm **Nishant Lanjewar**, an enthusiastic self-taught **full-stack web developer** and a freelance software engineer based in **Pune, India**. 🚀 My love for software development revolves around turning creative ideas into reality with sleek and user-friendly interfaces. I'm dedicated to ensuring a seamless user experience, solid architecture, and high-quality code in everything I create. 🛠️
+Hello, I'm **Ankit Kumar**, an enthusiastic self-taught **full-stack web developer** and a freelance software engineer based in **Pune, India**. 🚀 My love for software development revolves around turning creative ideas into reality with sleek and user-friendly interfaces. I'm dedicated to ensuring a seamless user experience, solid architecture, and high-quality code in everything I create. 🛠️
 
 Beyond my passion for coding, I'm an avid **open-source enthusiast and contributor**. I deeply value the collaborative nature of the open-source community and appreciate how it fosters knowledge-sharing and innovation. 🌐
 
