@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Ankit Kumar  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Freelance+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Freelance+Software+Engineer;Open+Source+Contributor;Tech+Cartoons+Only+Here" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
 </p>
 
 I'm a **self-taught Full Stack Web Developer** and **Freelance Software Engineer** based in **Pune, India 🇮🇳**.  
@@ -20,12 +20,12 @@ Currently studying at **VIT College, Pune 🎓**.
 
 ## 🔭 About Me  
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
 
-- 🔧 Building modern web applications using **JavaScript & TypeScript**
-- 🌱 Learning **Backend Systems, Cloud & Scalable Architectures**
-- 🤝 Open-source contributor & community learner
-- ⚡ Fun fact: I love turning ideas into **fast-shipped side projects**
+- 🔧 Building modern web apps with **JavaScript & TypeScript**
+- 🌱 Learning **backend systems, cloud & scalable architectures**
+- 🤝 Active **open-source contributor**
+- ⚡ Ship fast, refactor faster
 
 ---
 
@@ -73,7 +73,7 @@ Currently studying at **VIT College, Pune 🎓**.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="220"/>
 </p>
 
 ---
@@ -81,12 +81,12 @@ Currently studying at **VIT College, Pune 🎓**.
 ## 🚀 Featured Projects  
 
 ### 🧩 Project One  
-🔹 Short description of what it does  
+🔹 Description of the project  
 🔹 Tech: React, Node.js, MongoDB  
 🔹 Repo: https://github.com/ANKITKUMAR-dev25/PROJECT-ONE  
 
 ### 🧩 Project Two  
-🔹 Short description & key features  
+🔹 Key features & functionality  
 🔹 Tech: TypeScript, Express, REST API  
 🔹 Repo: https://github.com/ANKITKUMAR-dev25/PROJECT-TWO  
 
@@ -115,12 +115,12 @@ Currently studying at **VIT College, Pune 🎓**.
 
 ## 🚧 Currently Working On  
 
-- 🔥 Full-stack SaaS-style application  
-- ☁️ Cloud deployment & system design  
-- 🧠 Data structures & backend optimization  
+- 🔥 Full-stack production apps  
+- ☁️ Cloud deployment & CI/CD  
+- 🧠 Backend performance & scaling  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
 </p>
 
 ---
@@ -128,7 +128,7 @@ Currently studying at **VIT College, Pune 🎓**.
 ## 📫 Connect With Me  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200"/>
 </p>
 
 - 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
@@ -138,4 +138,4 @@ Currently studying at **VIT College, Pune 🎓**.
 ---
 
 ⭐️ **If you like my work, consider starring my repositories!**  
-🚀 *Let’s build something awesome together.*
+🤖 *Built with code, powered by curiosity.*
