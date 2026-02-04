@@ -60,7 +60,7 @@ I'm a self-taught full‑stack web developer and freelance software engineer bas
 1. Replace images/GIFs with ones you prefer (hosted in repo or via direct image URL).
 2. Replace project links and descriptions with your actual repositories and summaries.
 3. Replace contact links (LinkedIn, email, Twitter) with your real handles.
-4. Optionally add more sections: Blog posts, Certifications, Speaking, Open Source Contributions.
+
 
 ---
 
