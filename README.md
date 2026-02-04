@@ -27,6 +27,10 @@ Currently studying at **VIT College, Pune 🎓**.
 - 🤝 Open-source contributor & community learner
 - ⚡ Fun fact: I love turning ideas into **fast-shipped side projects**
 
+
+
+
+
 ---
 
 ## 🧠 Tech Stack & Tools  
@@ -98,11 +102,13 @@ Currently studying at **VIT College, Pune 🎓**.
 
 ## 📈 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR-dev25&show_icons=true&theme=github_dark&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANKITKUMAR-dev25&theme=github-dark" height="170"/>
-</p>
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ANKITKUMAR-dev25&theme=onedark&no-frame=true&row=1&margin-w=15"
+    alt="GitHub Trophies"
+  />
+</p>
 ---
 
 ## 🏆 GitHub Trophies  
