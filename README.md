@@ -23,7 +23,7 @@ Currently studying at **VIT College, Pune 🎓**.
 - 🤝 Open-source enthusiast — love collaborating and sharing knowledge  
 - ⚡ Fun fact: I enjoy turning ideas into **small projects and shipping them fast**
 
----
+
 
 ## 🛠️ Tech Stack & Tools  
 
