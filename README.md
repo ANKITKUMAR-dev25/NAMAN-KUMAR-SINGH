@@ -100,25 +100,6 @@ Currently studying at **VIT College, Pune 🎓**.
 
 ---
 
-## 📈 GitHub Stats  
-
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ANKITKUMAR-dev25&theme=onedark&no-frame=true&row=1&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANKITKUMAR-dev25&theme=onedark&row=1&margin-w=15"/>
-</p>
-
----
-
 ## 🚧 Currently Working On  
 
 - 🔥 Full-stack SaaS-style application  
