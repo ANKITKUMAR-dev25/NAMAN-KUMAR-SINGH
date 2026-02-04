@@ -1,69 +1,88 @@
-# Hi there 👋 I'm Ankit Kumar
+# Hi there 👋 I'm Ankit Kumar  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="coding" width="900"/>
 </p>
 
-I'm a self-taught full‑stack web developer and freelance software engineer based in Pune, India. I love building web apps, learning new technologies, and contributing to open-source. Currently studying at VIT College (Pune) 🎓.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Freelance+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
+
+I'm a **self-taught full-stack web developer** and **freelance software engineer** based in **Pune, India 🇮🇳**.  
+I love building web apps, learning new technologies, and contributing to open-source.  
+Currently studying at **VIT College, Pune 🎓**.
 
 ---
 
-## 🔭 About Me
-- 🔧 I build web applications using modern JavaScript/TypeScript stacks.
-- 🌱 I’m currently learning more about backend systems, cloud deployments, and scalable architectures.
-- 🤝 I love open-source — I enjoy contributing, learning from the community, and sharing what I build.
-- ⚡ Fun fact: I enjoy turning ideas into small projects and shipping them fast.
+## 🔭 About Me  
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRkZmE1ZDc4MjA5ZjU2NTk1N2U5YzFjNjJhM2E1NzFjNjk4ZTVjNyZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+
+- 🔧 I build web applications using modern **JavaScript / TypeScript** stacks  
+- 🌱 Currently learning **backend systems, cloud deployments & scalable architectures**  
+- 🤝 Open-source enthusiast — love collaborating and sharing knowledge  
+- ⚡ Fun fact: I enjoy turning ideas into **small projects and shipping them fast**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- [Project One — short description](https://github.com/ANKITKUMAR-dev25/PROJECT-ONE)  
-  Brief: one-liner of what it does, tech used (React, Node, etc.), and why it's useful.
-- [Project Two — short description](https://github.com/ANKITKUMAR-dev25/PROJECT-TWO)  
-  Brief: one-liner and notable features (auth, API integration, deployment).
-- (Tip: Pin your best repos on your GitHub profile and link them here.)
+## 🚀 Featured Projects  
 
----
+🧩 **Project One**  
+🔹 Short description of what it does  
+🔹 Tech: React, Node, MongoDB  
+🔹 Repo: https://github.com/ANKITKUMAR-dev25/PROJECT-ONE  
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR-dev25&show_icons=true&theme=github_dark&count_private=true" alt="Ankit's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANKITKUMAR-dev25&theme=github-dark" alt="GitHub streak" />
+🧩 **Project Two**  
+🔹 Short description & key features  
+🔹 Tech: TypeScript, Express, REST API  
+🔹 Repo: https://github.com/ANKITKUMAR-dev25/PROJECT-TWO  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- Email: your.email@example.com  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle) (optional)
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR-dev25&show_icons=true&theme=github_dark&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANKITKUMAR-dev25&theme=github-dark" height="170"/>
+</p>
 
 ---
 
-## ✨ How to customize
-1. Replace images/GIFs with ones you prefer (hosted in repo or via direct image URL).
-2. Replace project links and descriptions with your actual repositories and summaries.
+## 📫 Connect with Me  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="180"/>
+</p>
 
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- 📧 Email: your.email@example.com  
+- 🐦 Twitter: https://twitter.com/yourhandle  
 
 ---
 
-Thanks for sharing your README — if you want, I can:
-- Replace the placeholders and push the updated README to your repo if you give permission (and repo owner/branch).
-- Or, give me the exact LinkedIn/email/GIFs and I’ll generate a final file ready to commit.
+⭐️ *If you like my work, consider starring my repositories!*  
