@@ -1,17 +1,17 @@
 # Hi there 👋 I'm Ankit Kumar  
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Freelance+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Freelance+Software+Engineer;Open+Source+Contributor;Tech+Cartoons+Only+Here" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
 </p>
-
 I'm a **self-taught Full Stack Web Developer** and **Freelance Software Engineer** based in **Pune, India 🇮🇳**.  
 I love building web apps, learning new technologies, and contributing to open-source.  
 Currently studying at **VIT College, Pune 🎓**.
